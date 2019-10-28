@@ -1,0 +1,5 @@
+{
+	blob_container: "azureblobtutorial",
+	blob_connection_string: "<ReplaceWithYourStorageConnectionString. You can find the one for Azure Storage Emulator from the doc>",
+	monitored_directory: "<ReplaceWithYourDirectory>"
+}
